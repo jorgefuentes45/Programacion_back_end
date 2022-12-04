@@ -1,0 +1,40 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "name": "Producto_1",
+      "description": "descripción 1",
+      "status": "done",
+      "nombre": "task",
+      "precio": 100
+    },
+    {
+      "id": 2,
+      "name": "Producto_2",
+      "description": "producto descripcion",
+      "status": "done",
+      "precio": "5000"
+    },
+    {
+      "id": 3,
+      "name": "Producto_3",
+      "description": "si",
+      "status": "done",
+      "precio": 300
+    },
+    {
+      "id": 4,
+      "name": "Producto_4",
+      "status": "done",
+      "description": "descrpcion",
+      "precio": "3000"
+    },
+    {
+      "id": 5,
+      "name": "undsc",
+      "status": "sdfsdfs",
+      "description": "dfds5",
+      "precio": "5555"
+    }
+  ]
+}
